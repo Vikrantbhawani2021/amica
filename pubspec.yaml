@@ -44,8 +44,11 @@ dependencies:
   flutter_zoom_drawer: ^3.0.4+1
   image_picker: ^0.8.7+5
   carousel_slider: ^4.2.1
+<<<<<<< HEAD
   firebase_core: ^2.15.0
   firebase_auth: ^4.7.2
+=======
+>>>>>>> eead1c5feecbde8218fa7d3d4e427bcbea850396
 
 
 dev_dependencies:
