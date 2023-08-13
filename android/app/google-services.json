@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241836595294",
+    "project_id": "amica-ddef7",
+    "storage_bucket": "amica-ddef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241836595294:android:7a14e806b74f7d2a17bccf",
+        "android_client_info": {
+          "package_name": "com.libmanamica.libmanamica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241836595294-q2438ji9vv87ngpu1h9jeike55k5ijvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Gi-4-sFivkc7W9py545lHGVIsqtr5XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241836595294-q2438ji9vv87ngpu1h9jeike55k5ijvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
